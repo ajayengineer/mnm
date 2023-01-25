@@ -7,7 +7,7 @@ function TreeMenu() {
         <div>
             {items && items.map((item) => (
                 <div className='col-md-12' key={item.id}>
-                    {item.title}
+                    {item.id}
                 </div>
             ))}
         </div>

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import SearchBar from './SearchBar';
 import TreeMenu from './TreeMenu';
 
+
 const AttributeLavelData = [
     {
         value: "Asia",
@@ -79,8 +80,8 @@ const GeographicalHierarchy = () => {
         <div className='row d-flex justify-content-center text-center py-5'>
 
             <div className='row bg-primary'>
-                <div className='col-md-5'><TreeMenu /></div>
-                <div className='col-md-7'><SearchBar /></div>
+                <div className='col-md-4'><TreeMenu /></div>
+                <div className='col-md-4'><SearchBar /></div>
             </div>
 
             <div className='col-md-12 d-flex justify-content-center text-center py-5'>
