@@ -1,0 +1,26 @@
+[
+    {
+        "geoCode": "UT001",
+        "geoName": "Uttarakhand",
+        "attributeKey": "3",
+        "geoParentCode": "DMS2 ",
+        "subGeo": [
+            {
+                "id": "08325b1c-ce4f-49c5-a5a5-1229ec435d75",
+                "geoCode": "NI001",
+                "geoName": "Nainital",
+                "hirchy Attrbtsk": "д",
+                "parentGeosk": "UT001",
+                "actvind": "y",
+                "subGeo": []
+            }
+        ]
+    },
+    {
+        "geoCode": "UPOO1",
+        "geoName": "up",
+        "attributeKey": "В",
+        "geoParentCode": "DMS2",
+        "subGeo": []
+    }
+]
